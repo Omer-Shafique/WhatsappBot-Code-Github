@@ -41,7 +41,6 @@ options.add_argument(f"user-data-dir={user_data_dir}")
 #Create The New Profile When Run For The First Time
 options.add_argument("profile-directory=NewProfile")
 
-
 # Initialize the WebDriver
 driver = webdriver.Chrome(options=options)
 
@@ -63,18 +62,14 @@ attachments = excel_read["Attachment"].tolist()
 count = 0
 
 
-
-
-
-
-
 # automation looping
 for number in numbers:
     try:
         print(" ")
         print(" ")
-        print(" ")
-        print(f"Processing {number}")
+        print(f"Preparing Data For {number}")
+        
+        #opening whatsapps web in loop
         driver.get("https://web.whatsapp.com/send?phone=" + str(number) + "&text= ")
 
         # type + send message in WhatsApp
@@ -95,9 +90,10 @@ for number in numbers:
             attachment = wait.until(EC.presence_of_element_located((By.XPATH, attachment_path)))
             ActionChains(driver).move_to_element(attachment).click().perform()
 
-            # Locate the file input element
+            # Locate the file input element and wait for the attachment to load
             file_input_path = '//input[@accept="image/*,video/mp4,video/3gpp,video/quicktime"]'
             file_input = wait.until(EC.presence_of_element_located((By.XPATH, file_input_path)))
+
 
             # Set the file path dynamically from Excel sheet
             file_path = os.path.abspath(attachments[count])
@@ -110,27 +106,30 @@ for number in numbers:
             send_icon_xpath = '//div[@aria-label="Send" and @role="button"]/span[@data-icon="send"]'
             send_icon = wait.until(EC.element_to_be_clickable((By.XPATH, send_icon_xpath)))
 
-            # Click the send icon using ActionChains
+            # Click the send icon using ActionChains (imported on the top of the code)
             ActionChains(driver).move_to_element(send_icon).click().perform()
 
+            #printing the attachment status on the log
             print(f"Attachment with caption sent to {number}")
             print(" ")
             print(" ")
 
+    #this codesnippet will be execute when user stop the bot manually
     except KeyboardInterrupt:
         print("Script interrupted by the user.")
         break
-    # except Exception as e:
-        # print(f"Error: {e}")
 
-    # Increment for excel rows
+    # Increment for excel rows and moving the bot to new line
     count += 1
     time.sleep(3)
 
+    #save the position of the bot at certain cell. to avoid the restart of the bot from the scratch
     state_file_path = "state.txt"
     with open(state_file_path, "w") as state_file:
       state_file.write(str(count))
 
+
+#print the bot stopping time
 end_time = datetime.now()
 print(f"Bot closed at: {end_time}")
 
@@ -141,10 +140,11 @@ print(f"Bot ran for: {runtime}")
 # Print the number of messages sent
 print(f"Number Of Users messaged by the bot: {count}")
 
+#Verify that bot ain't working
 print("Bot Is Now Stopped")
 
 
-
+#close the log file.
 log_file.close()
 sys.stdout = original_stdout
 sys.stderr = original_stderr
