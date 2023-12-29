@@ -1,0 +1,676 @@
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 3
+Sending message 2: Message 13
+Sending message 3: Message 23
+Sending message 4: Message 33
+Sending message 5: Message 43
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 4
+Sending message 2: Message 14
+Sending message 3: Message 24
+Sending message 4: Message 34
+Sending message 5: Message 44
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 5
+Sending message 2: Message 15
+Sending message 3: Message 25
+Sending message 4: Message 35
+Sending message 5: Message 45
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 6
+Sending message 2: Message 16
+Sending message 3: Message 26
+Sending message 4: Message 36
+Sending message 5: Message 46
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 7
+Sending message 2: Message 17
+Sending message 3: Message 27
+Sending message 4: Message 37
+Sending message 5: Message 47
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 8
+Sending message 2: Message 18
+Sending message 3: Message 28
+Sending message 4: Message 38
+Sending message 5: Message 48
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 9
+Sending message 2: Message 19
+Sending message 3: Message 29
+Sending message 4: Message 39
+Sending message 5: Message 49
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 10
+Sending message 2: Message 20
+Sending message 3: Message 30
+Sending message 4: Message 40
+Sending message 5: Message 50
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+Successfully completed sending messages and attachments.
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 3
+Sending message 2: Message 13
+Sending message 3: Message 23
+Sending message 4: Message 33
+Sending message 5: Message 43
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+                                                                                      
+Processing 3302085537
+Sending message 1: Message 4
+Sending message 2: Message 14
+Sending message 3: Message 24
+Sending message 4: Message 34
+Sending message 5: Message 44
+Uploading attachment: post1.jpeg
+Script interrupted by the user.
+Successfully completed sending messages and attachments.
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Script interrupted by the user.
+Bot Is Now Stopped
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Error: Message: 
+Stacktrace:
+	GetHandleVerifier [0x01166EE3+174339]
+	(No symbol) [0x01090A51]
+	(No symbol) [0x00DA6FF6]
+	(No symbol) [0x00DD9876]
+	(No symbol) [0x00DD9C2C]
+	(No symbol) [0x00E0BD42]
+	(No symbol) [0x00DF7054]
+	(No symbol) [0x00E0A104]
+	(No symbol) [0x00DF6DA6]
+	(No symbol) [0x00DD1034]
+	(No symbol) [0x00DD1F8D]
+	GetHandleVerifier [0x01204B1C+820540]
+	sqlite3_dbdata_init [0x012C53EE+653550]
+	sqlite3_dbdata_init [0x012C4E09+652041]
+	sqlite3_dbdata_init [0x012B97CC+605388]
+	sqlite3_dbdata_init [0x012C5D9B+656027]
+	(No symbol) [0x0109FE6C]
+	(No symbol) [0x010983B8]
+	(No symbol) [0x010984DD]
+	(No symbol) [0x01085818]
+	BaseThreadInitThunk [0x75C7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77737C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77737C3E+238]
+
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 3
+Sending message 2: Message 13
+Sending message 3: Message 23
+Sending message 4: Message 33
+Sending message 5: Message 43
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 4
+Sending message 2: Message 14
+Sending message 3: Message 24
+Sending message 4: Message 34
+Sending message 5: Message 44
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 5
+Sending message 2: Message 15
+Sending message 3: Message 25
+Sending message 4: Message 35
+Sending message 5: Message 45
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 6
+Sending message 2: Message 16
+Sending message 3: Message 26
+Sending message 4: Message 36
+Sending message 5: Message 46
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 7
+Sending message 2: Message 17
+Sending message 3: Message 27
+Sending message 4: Message 37
+Sending message 5: Message 47
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Script interrupted by the user.
+Bot Is Now Stopped
+Bot started at: 2023-12-29 11:30:31.898662
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+Traceback (most recent call last):
+  File "C:\Users\TICK\Downloads\Important-Files\Bots\whatsapp_bot\new.py", line 129, in <module>
+    time.sleep(3)
+KeyboardInterrupt
+Bot started at: 2023-12-29 11:32:27.621396
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Script interrupted by the user.
+Bot closed at: 2023-12-29 11:32:58.499891
+Bot ran for: 0:00:30.878495
+Number of messages sent: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 11:34:06.622541
+ 
+ 
+ 
+Processing 3302085537
+Script interrupted by the user.
+User closed the bot at: 2023-12-29 11:34:16.881523
+Bot ran for: 0:00:10.258982
+Number of messages sent: 0
+Bot closed at: 2023-12-29 11:34:16.881523
+Bot ran for: 0:00:10.258982
+Number of messages sent: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 11:35:20.523248
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Script interrupted by the user.
+Bot closed at: 2023-12-29 11:36:33.001489
+Bot ran for: 0:01:12.478241
+Number of messages sent: 2
+Bot Is Now Stopped
+Bot started at: 2023-12-29 11:41:39.227725
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 3
+Sending message 2: Message 13
+Sending message 3: Message 23
+Sending message 4: Message 33
+Sending message 5: Message 43
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 4
+Sending message 2: Message 14
+Sending message 3: Message 24
+Sending message 4: Message 34
+Sending message 5: Message 44
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 5
+Sending message 2: Message 15
+Sending message 3: Message 25
+Sending message 4: Message 35
+Sending message 5: Message 45
+Uploading attachment: post1.jpeg
+Script interrupted by the user.
+Bot closed at: 2023-12-29 11:43:54.095826
+Bot ran for: 0:02:14.868101
+Number Of Users messaged by the bot: 4
+Bot Is Now Stopped
+Bot started at: 2023-12-29 11:53:37.522256
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Script interrupted by the user.
+Bot closed at: 2023-12-29 11:54:32.904887
+Bot ran for: 0:00:55.382631
+Number Of Users messaged by the bot: 1
+Traceback (most recent call last):
+  File "C:\Users\TICK\Downloads\Important-Files\Bots\whatsapp_bot\new.py", line 145, in <module>
+    kit.sendwhatmsg_instantly(target_whatsapp_number, log_file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pywhatkit\whats.py", line 26, in sendwhatmsg_instantly
+    raise exceptions.CountryCodeException("Country Code Missing in Phone Number!")
+pywhatkit.core.exceptions.CountryCodeException: Country Code Missing in Phone Number!
+Bot started at: 2023-12-29 11:55:27.362839
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 2
+Script interrupted by the user.
+Bot closed at: 2023-12-29 11:56:15.044468
+Bot ran for: 0:00:47.681629
+Number Of Users messaged by the bot: 1
+Traceback (most recent call last):
+  File "C:\Users\TICK\Downloads\Important-Files\Bots\whatsapp_bot\new.py", line 145, in <module>
+    kit.sendwhatmsg_instantly(target_whatsapp_number, log_file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pywhatkit\whats.py", line 28, in sendwhatmsg_instantly
+    web.open(f"https://web.whatsapp.com/send?phone={phone_no}&text={quote(message)}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\webbrowser.py", line 84, in open
+    register_standard_browsers()
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\webbrowser.py", line 495, in register_standard_browsers
+    if shutil.which("MicrosoftEdge.exe"):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\shutil.py", line 1591, in which
+    if _access_check(name, mode):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\shutil.py", line 1499, in _access_check
+    return (os.path.exists(fn) and os.access(fn, mode)
+            ^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+Bot started at: 2023-12-29 12:00:49.234578
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Script interrupted by the user.
+Traceback (most recent call last):
+  File "C:\Users\TICK\Downloads\Important-Files\Bots\whatsapp_bot\new.py", line 87, in <module>
+    message_box = wait.until(EC.presence_of_element_located((By.XPATH, message_box_path)))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 102, in until
+    time.sleep(self._poll)
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Downloads\Important-Files\Bots\whatsapp_bot\new.py", line 127, in <module>
+    send_whatsapp_message("+9233020855367", "Bot was interrupted.") 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\Downloads\Important-Files\Bots\whatsapp_bot\new.py", line 17, in send_whatsapp_message
+    kit.sendwhatmsg_instantly(target_whatsapp_number, message)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pywhatkit\whats.py", line 28, in sendwhatmsg_instantly
+    web.open(f"https://web.whatsapp.com/send?phone={phone_no}&text={quote(message)}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\webbrowser.py", line 87, in open
+    if browser.open(url, new, autoraise):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\webbrowser.py", line 555, in open
+    os.startfile(url)
+KeyboardInterrupt
+Bot started at: 2023-12-29 12:12:10.917200
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Script interrupted by the user.
+Bot closed at: 2023-12-29 12:12:39.360490
+Bot ran for: 0:00:28.443290
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 12:12:42.709060
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Script interrupted by the user.
+Bot closed at: 2023-12-29 12:13:23.657979
+Bot ran for: 0:00:40.948919
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
+Bot started at: 2023-12-29 12:23:25.517164
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+ 
+Processing 3302085537
+Script interrupted by the user.
+Bot closed at: 2023-12-29 12:24:26.534652
+Bot ran for: 0:01:01.017488
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
