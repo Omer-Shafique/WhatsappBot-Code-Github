@@ -148,10 +148,3 @@ print("Bot Is Now Stopped")
 log_file.close()
 sys.stdout = original_stdout
 sys.stderr = original_stderr
-
-
-
-
-
-
-

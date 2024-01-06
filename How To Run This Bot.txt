@@ -1,0 +1,18 @@
+Configrations: 
+install python
+install git bash
+install vs code
+chrome version should be v-120 
+install chromewebdriver v-120
+pip install requirement.txt
+contact developer: Omer 03302085537
+
+
+
+
+Step # 01 - right click on the bot folder
+Step # 02 - select open with git bash 
+Step # 03 - Write command python new.py
+Wait For The Bot To Start
+Step # 04 -if you want to stop the bot then terminate the bot with CTRL + C 
+

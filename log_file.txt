@@ -674,3 +674,2154 @@ Bot closed at: 2023-12-29 12:24:26.534652
 Bot ran for: 0:01:01.017488
 Number Of Users messaged by the bot: 2
 Bot Is Now Stopped
+Bot started at: 2023-12-29 15:57:06.648268
+ 
+ 
+Preparing Data For 3302085537
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 77, in <module>
+    message_box = wait.until(EC.presence_of_element_located((By.XPATH, message_box_path)))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 84, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 742, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00B86EE3+174339]
+	(No symbol) [0x00AB0A51]
+	(No symbol) [0x007C6FF6]
+	(No symbol) [0x007AEFE7]
+	(No symbol) [0x0081B53B]
+	(No symbol) [0x00829E7B]
+	(No symbol) [0x00816DA6]
+	(No symbol) [0x007F1034]
+	(No symbol) [0x007F1F8D]
+	GetHandleVerifier [0x00C24B1C+820540]
+	sqlite3_dbdata_init [0x00CE53EE+653550]
+	sqlite3_dbdata_init [0x00CE4E09+652041]
+	sqlite3_dbdata_init [0x00CD97CC+605388]
+	sqlite3_dbdata_init [0x00CE5D9B+656027]
+	(No symbol) [0x00ABFE6C]
+	(No symbol) [0x00AB83B8]
+	(No symbol) [0x00AB84DD]
+	(No symbol) [0x00AA5818]
+	BaseThreadInitThunk [0x75C7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77737C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77737C3E+238]
+
+Bot started at: 2023-12-29 15:57:38.166392
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2023-12-29 15:58:46.914683
+Bot ran for: 0:01:08.748291
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2023-12-29 16:09:04.932723
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 3
+Sending message 2: Message 13
+Sending message 3: Message 23
+Sending message 4: Message 33
+Sending message 5: Message 43
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 4
+Sending message 2: Message 14
+Sending message 3: Message 24
+Sending message 4: Message 34
+Sending message 5: Message 44
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 5
+Sending message 2: Message 15
+Sending message 3: Message 25
+Sending message 4: Message 35
+Sending message 5: Message 45
+Uploading attachment: post1.jpeg
+Script interrupted by the user.
+Bot closed at: 2023-12-29 16:11:19.144909
+Bot ran for: 0:02:14.212186
+Number Of Users messaged by the bot: 4
+Bot Is Now Stopped
+Bot started at: 2023-12-29 16:29:50.364307
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2023-12-29 16:30:34.453885
+Bot ran for: 0:00:44.089578
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
+Bot started at: 2023-12-29 17:03:36.511418
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x009A6EE3+174339]
+	(No symbol) [0x008D0A51]
+	(No symbol) [0x005E6FF6]
+	(No symbol) [0x0060A756]
+	(No symbol) [0x00607A0F]
+	(No symbol) [0x0063E259]
+	(No symbol) [0x0063DBBA]
+	(No symbol) [0x00636DA6]
+	(No symbol) [0x00611034]
+	(No symbol) [0x00611F8D]
+	GetHandleVerifier [0x00A44B1C+820540]
+	sqlite3_dbdata_init [0x00B053EE+653550]
+	sqlite3_dbdata_init [0x00B04E09+652041]
+	sqlite3_dbdata_init [0x00AF97CC+605388]
+	sqlite3_dbdata_init [0x00B05D9B+656027]
+	(No symbol) [0x008DFE6C]
+	(No symbol) [0x008D83B8]
+	(No symbol) [0x008D84DD]
+	(No symbol) [0x008C5818]
+	BaseThreadInitThunk [0x7727FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77867C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77867C3E+238]
+
+Bot started at: 2023-12-29 17:04:22.955647
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x009A6EE3+174339]
+	(No symbol) [0x008D0A51]
+	(No symbol) [0x005E6FF6]
+	(No symbol) [0x0060A756]
+	(No symbol) [0x00607A0F]
+	(No symbol) [0x0063E259]
+	(No symbol) [0x0063DBBA]
+	(No symbol) [0x00636DA6]
+	(No symbol) [0x00611034]
+	(No symbol) [0x00611F8D]
+	GetHandleVerifier [0x00A44B1C+820540]
+	sqlite3_dbdata_init [0x00B053EE+653550]
+	sqlite3_dbdata_init [0x00B04E09+652041]
+	sqlite3_dbdata_init [0x00AF97CC+605388]
+	sqlite3_dbdata_init [0x00B05D9B+656027]
+	(No symbol) [0x008DFE6C]
+	(No symbol) [0x008D83B8]
+	(No symbol) [0x008D84DD]
+	(No symbol) [0x008C5818]
+	BaseThreadInitThunk [0x7727FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77867C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77867C3E+238]
+
+Bot started at: 2023-12-29 17:04:58.029344
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x009A6EE3+174339]
+	(No symbol) [0x008D0A51]
+	(No symbol) [0x005E6FF6]
+	(No symbol) [0x0060A756]
+	(No symbol) [0x00607A0F]
+	(No symbol) [0x0063E259]
+	(No symbol) [0x0063DBBA]
+	(No symbol) [0x00636DA6]
+	(No symbol) [0x00611034]
+	(No symbol) [0x00611F8D]
+	GetHandleVerifier [0x00A44B1C+820540]
+	sqlite3_dbdata_init [0x00B053EE+653550]
+	sqlite3_dbdata_init [0x00B04E09+652041]
+	sqlite3_dbdata_init [0x00AF97CC+605388]
+	sqlite3_dbdata_init [0x00B05D9B+656027]
+	(No symbol) [0x008DFE6C]
+	(No symbol) [0x008D83B8]
+	(No symbol) [0x008D84DD]
+	(No symbol) [0x008C5818]
+	BaseThreadInitThunk [0x7727FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77867C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77867C3E+238]
+
+Bot started at: 2023-12-29 17:10:23.877619
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x009A6EE3+174339]
+	(No symbol) [0x008D0A51]
+	(No symbol) [0x005E6FF6]
+	(No symbol) [0x0060A756]
+	(No symbol) [0x00607A0F]
+	(No symbol) [0x0063E259]
+	(No symbol) [0x0063DBBA]
+	(No symbol) [0x00636DA6]
+	(No symbol) [0x00611034]
+	(No symbol) [0x00611F8D]
+	GetHandleVerifier [0x00A44B1C+820540]
+	sqlite3_dbdata_init [0x00B053EE+653550]
+	sqlite3_dbdata_init [0x00B04E09+652041]
+	sqlite3_dbdata_init [0x00AF97CC+605388]
+	sqlite3_dbdata_init [0x00B05D9B+656027]
+	(No symbol) [0x008DFE6C]
+	(No symbol) [0x008D83B8]
+	(No symbol) [0x008D84DD]
+	(No symbol) [0x008C5818]
+	BaseThreadInitThunk [0x7727FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77867C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77867C3E+238]
+
+Bot started at: 2023-12-29 17:11:33.371601
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x009A6EE3+174339]
+	(No symbol) [0x008D0A51]
+	(No symbol) [0x005E6FF6]
+	(No symbol) [0x0060A756]
+	(No symbol) [0x00607A0F]
+	(No symbol) [0x0063E259]
+	(No symbol) [0x0063DBBA]
+	(No symbol) [0x00636DA6]
+	(No symbol) [0x00611034]
+	(No symbol) [0x00611F8D]
+	GetHandleVerifier [0x00A44B1C+820540]
+	sqlite3_dbdata_init [0x00B053EE+653550]
+	sqlite3_dbdata_init [0x00B04E09+652041]
+	sqlite3_dbdata_init [0x00AF97CC+605388]
+	sqlite3_dbdata_init [0x00B05D9B+656027]
+	(No symbol) [0x008DFE6C]
+	(No symbol) [0x008D83B8]
+	(No symbol) [0x008D84DD]
+	(No symbol) [0x008C5818]
+	BaseThreadInitThunk [0x7727FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77867C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77867C3E+238]
+
+Bot started at: 2023-12-29 17:13:27.444697
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x009A6EE3+174339]
+	(No symbol) [0x008D0A51]
+	(No symbol) [0x005E6FF6]
+	(No symbol) [0x0060A756]
+	(No symbol) [0x00607A0F]
+	(No symbol) [0x0063E259]
+	(No symbol) [0x0063DBBA]
+	(No symbol) [0x00636DA6]
+	(No symbol) [0x00611034]
+	(No symbol) [0x00611F8D]
+	GetHandleVerifier [0x00A44B1C+820540]
+	sqlite3_dbdata_init [0x00B053EE+653550]
+	sqlite3_dbdata_init [0x00B04E09+652041]
+	sqlite3_dbdata_init [0x00AF97CC+605388]
+	sqlite3_dbdata_init [0x00B05D9B+656027]
+	(No symbol) [0x008DFE6C]
+	(No symbol) [0x008D83B8]
+	(No symbol) [0x008D84DD]
+	(No symbol) [0x008C5818]
+	BaseThreadInitThunk [0x7727FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77867C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77867C3E+238]
+
+Bot started at: 2023-12-29 17:22:30.734055
+Traceback (most recent call last):
+  File "C:\users\tick\desktop\bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x009A6EE3+174339]
+	(No symbol) [0x008D0A51]
+	(No symbol) [0x005E6FF6]
+	(No symbol) [0x0060A756]
+	(No symbol) [0x00607A0F]
+	(No symbol) [0x0063E259]
+	(No symbol) [0x0063DBBA]
+	(No symbol) [0x00636DA6]
+	(No symbol) [0x00611034]
+	(No symbol) [0x00611F8D]
+	GetHandleVerifier [0x00A44B1C+820540]
+	sqlite3_dbdata_init [0x00B053EE+653550]
+	sqlite3_dbdata_init [0x00B04E09+652041]
+	sqlite3_dbdata_init [0x00AF97CC+605388]
+	sqlite3_dbdata_init [0x00B05D9B+656027]
+	(No symbol) [0x008DFE6C]
+	(No symbol) [0x008D83B8]
+	(No symbol) [0x008D84DD]
+	(No symbol) [0x008C5818]
+	BaseThreadInitThunk [0x7727FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77867C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77867C3E+238]
+
+Bot started at: 2023-12-29 17:28:16.183577
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Sending message 5: Message 41
+Uploading attachment: post1.jpeg
+Script interrupted by the user.
+Bot closed at: 2023-12-29 17:28:56.617036
+Bot ran for: 0:00:40.433459
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 17:29:09.250840
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 1
+Sending message 2: Message 11
+Sending message 3: Message 21
+Sending message 4: Message 31
+Script interrupted by the user.
+Bot closed at: 2023-12-29 17:29:38.183878
+Bot ran for: 0:00:28.933038
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 17:30:18.014037
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 1
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 2
+Sending message 2: Message 12
+Sending message 3: Message 22
+Sending message 4: Message 32
+Sending message 5: Message 42
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 3
+Sending message 2: Message 13
+Sending message 3: Message 23
+Sending message 4: Message 33
+Sending message 5: Message 43
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 4
+Sending message 2: Message 14
+Sending message 3: Message 24
+Sending message 4: Message 34
+Sending message 5: Message 44
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 5
+Sending message 2: Message 15
+Sending message 3: Message 25
+Sending message 4: Message 35
+Sending message 5: Message 45
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 6
+Sending message 2: Message 16
+Sending message 3: Message 26
+Sending message 4: Message 36
+Sending message 5: Message 46
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 7
+Sending message 2: Message 17
+Sending message 3: Message 27
+Sending message 4: Message 37
+Sending message 5: Message 47
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 8
+Sending message 2: Message 18
+Sending message 3: Message 28
+Sending message 4: Message 38
+Sending message 5: Message 48
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 9
+Sending message 2: Message 19
+Sending message 3: Message 29
+Sending message 4: Message 39
+Sending message 5: Message 49
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Message 10
+Sending message 2: Message 20
+Sending message 3: Message 30
+Sending message 4: Message 40
+Sending message 5: Message 50
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 124, in <module>
+    time.sleep(3)
+KeyboardInterrupt
+Bot started at: 2023-12-29 17:34:44.599736
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nextjs
+Sending message 4: reactjs
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 2: Django
+Sending message 5: flask
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nodejs
+Sending message 3: liquid 
+Sending message 5: expressjs
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: docker
+Sending message 2: github
+Sending message 4: langchain
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Linux
+Sending message 3: Kali Linus
+Sending message 5: Ubunto
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 2: MongoDB
+Sending message 4: MySQl
+Uploading attachment: post1.jpeg
+Script interrupted by the user.
+Bot closed at: 2023-12-29 17:37:31.599357
+Bot ran for: 0:02:46.999621
+Number Of Users messaged by the bot: 6
+Bot Is Now Stopped
+Bot started at: 2023-12-29 17:37:34.766483
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: image2.jpeg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: File not found : C:\Users\TICK\Desktop\Bot\image2.jpeg
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00E66EE3+174339]
+	(No symbol) [0x00D90A51]
+	(No symbol) [0x00AA6FF6]
+	(No symbol) [0x00AD5728]
+	(No symbol) [0x00AF700C]
+	(No symbol) [0x00AD25B0]
+	(No symbol) [0x00AF7414]
+	(No symbol) [0x00B0A104]
+	(No symbol) [0x00AF6DA6]
+	(No symbol) [0x00AD1034]
+	(No symbol) [0x00AD1F8D]
+	GetHandleVerifier [0x00F04B1C+820540]
+	sqlite3_dbdata_init [0x00FC53EE+653550]
+	sqlite3_dbdata_init [0x00FC4E09+652041]
+	sqlite3_dbdata_init [0x00FB97CC+605388]
+	sqlite3_dbdata_init [0x00FC5D9B+656027]
+	(No symbol) [0x00D9FE6C]
+	(No symbol) [0x00D983B8]
+	(No symbol) [0x00D984DD]
+	(No symbol) [0x00D85818]
+	BaseThreadInitThunk [0x75D4FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77D57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77D57C3E+238]
+
+Bot started at: 2023-12-29 17:40:56.040718
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 77, in <module>
+    message_box = wait.until(EC.presence_of_element_located((By.XPATH, message_box_path)))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 84, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 742, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 228, in check_response
+    raise exception_class(message, screen, stacktrace, alert_text)  # type: ignore[call-arg]  # mypy is not smart enough here
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00E66EE3+174339]
+	(No symbol) [0x00D90A51]
+	(No symbol) [0x00AA6FF6]
+	(No symbol) [0x00B0A5CA]
+	(No symbol) [0x00AF6DA6]
+	(No symbol) [0x00AD1034]
+	(No symbol) [0x00AD1F8D]
+	GetHandleVerifier [0x00F04B1C+820540]
+	sqlite3_dbdata_init [0x00FC53EE+653550]
+	sqlite3_dbdata_init [0x00FC4E09+652041]
+	sqlite3_dbdata_init [0x00FB97CC+605388]
+	sqlite3_dbdata_init [0x00FC5D9B+656027]
+	(No symbol) [0x00D9FE6C]
+	(No symbol) [0x00D983B8]
+	(No symbol) [0x00D984DD]
+	(No symbol) [0x00D85818]
+	BaseThreadInitThunk [0x75D4FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77D57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77D57C3E+238]
+
+Bot started at: 2023-12-29 17:42:22.493680
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nextjs
+Sending message 4: reactjs
+Uploading attachment: image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 2: Django
+Sending message 5: flask
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nodejs
+Sending message 3: liquid 
+Sending message 5: expressjs
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: docker
+Sending message 2: github
+Sending message 4: langchain
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Linux
+Sending message 3: Kali Linus
+Sending message 5: Ubunto
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 2: MongoDB
+Sending message 4: MySQl
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 3: Postgres
+Uploading attachment: post1.jpeg
+Attachment with caption sent to 3302085537
+ 
+ 
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 124, in <module>
+    time.sleep(3)
+KeyboardInterrupt
+Bot started at: 2023-12-29 17:47:01.375811
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: file:///C:/Users/TICK/Desktop/Bot/Shruti%20Balasa%20-%20CSS%20Flex%20_%20Grid_Tailwind%20CSS%20(1).pdf
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: File not found : C:\Users\TICK\Desktop\Bot\file:\C:\Users\TICK\Desktop\Bot\Shruti%20Balasa%20-%20CSS%20Flex%20_%20Grid_Tailwind%20CSS%20(1).pdf
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00E66EE3+174339]
+	(No symbol) [0x00D90A51]
+	(No symbol) [0x00AA6FF6]
+	(No symbol) [0x00AD5728]
+	(No symbol) [0x00AF700C]
+	(No symbol) [0x00AD25B0]
+	(No symbol) [0x00AF7414]
+	(No symbol) [0x00B0A104]
+	(No symbol) [0x00AF6DA6]
+	(No symbol) [0x00AD1034]
+	(No symbol) [0x00AD1F8D]
+	GetHandleVerifier [0x00F04B1C+820540]
+	sqlite3_dbdata_init [0x00FC53EE+653550]
+	sqlite3_dbdata_init [0x00FC4E09+652041]
+	sqlite3_dbdata_init [0x00FB97CC+605388]
+	sqlite3_dbdata_init [0x00FC5D9B+656027]
+	(No symbol) [0x00D9FE6C]
+	(No symbol) [0x00D983B8]
+	(No symbol) [0x00D984DD]
+	(No symbol) [0x00D85818]
+	BaseThreadInitThunk [0x75D4FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77D57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77D57C3E+238]
+
+Bot started at: 2023-12-29 17:51:59.334957
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: file:///C:/Users/TICK/Desktop/Bot/Shruti%20Balasa%20-%20CSS%20Flex%20_%20Grid_Tailwind%20CSS%20(1).pdf
+Script interrupted by the user.
+Bot closed at: 2023-12-29 17:52:59.598792
+Bot ran for: 0:01:00.263835
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 17:53:03.921267
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: file:///C:/Users/TICK/Desktop/Bot/Shruti%20Balasa%20-%20CSS%20Flex%20_%20Grid_Tailwind%20CSS%20(1).pdf
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 96, in <module>
+    file_input = wait.until(EC.presence_of_element_located((By.XPATH, file_input_path)))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00E66EE3+174339]
+	(No symbol) [0x00D90A51]
+	(No symbol) [0x00AA6FF6]
+	(No symbol) [0x00AD9876]
+	(No symbol) [0x00AD9C2C]
+	(No symbol) [0x00B0BD42]
+	(No symbol) [0x00AF7054]
+	(No symbol) [0x00B0A104]
+	(No symbol) [0x00AF6DA6]
+	(No symbol) [0x00AD1034]
+	(No symbol) [0x00AD1F8D]
+	GetHandleVerifier [0x00F04B1C+820540]
+	sqlite3_dbdata_init [0x00FC53EE+653550]
+	sqlite3_dbdata_init [0x00FC4E09+652041]
+	sqlite3_dbdata_init [0x00FB97CC+605388]
+	sqlite3_dbdata_init [0x00FC5D9B+656027]
+	(No symbol) [0x00D9FE6C]
+	(No symbol) [0x00D983B8]
+	(No symbol) [0x00D984DD]
+	(No symbol) [0x00D85818]
+	BaseThreadInitThunk [0x75D4FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77D57C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77D57C3E+238]
+
+Bot started at: 2023-12-29 17:54:56.598299
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 88, in <module>
+    print(f"Uploading attachment: {attachments[count]}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u202a' in position 22: character maps to <undefined>
+Bot started at: 2023-12-29 17:57:38.185864
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1327, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1373, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1322, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1081, in _send_output
+    self.send(msg)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1025, in send
+    self.connect()
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1461, in connect
+    super().connect()
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 991, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 837, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 34, in <module>
+    install()
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromedriver_autoinstaller\__init__.py", line 21, in install
+    chromedriver_filepath = utils.download_chromedriver(path, no_ssl)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromedriver_autoinstaller\utils.py", line 273, in download_chromedriver
+    chromedriver_version, download_options = get_matched_chromedriver_version(chrome_version, no_ssl)
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\chromedriver_autoinstaller\utils.py", line 222, in get_matched_chromedriver_version
+    latest_version_per_milestone = json.load(urllib.request.urlopen(version_url))
+                                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 1392, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\urllib\request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>
+Bot started at: 2023-12-29 18:11:26.677753
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 45, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 50, in __init__
+    self.service.start()
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\common\service.py", line 98, in start
+    self._start_process(self._path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\common\service.py", line 200, in _start_process
+    close_file_descriptors = self.popen_kw.pop("close_fds", system() != "Windows")
+                                                            ^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\platform.py", line 985, in system
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\platform.py", line 920, in uname
+    release, version, csd, ptype = win32_ver()
+                                   ^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\platform.py", line 448, in win32_ver
+    version, csd, ptype, is_client = _win32_ver(version, csd, ptype)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\platform.py", line 386, in _win32_ver
+    (version, product_type, ptype, spmajor, spminor)  = _wmi_query(
+                                                        ^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\platform.py", line 326, in _wmi_query
+    data = _wmi.exec_query("SELECT {} FROM {}".format(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+Bot started at: 2023-12-29 18:11:35.038731
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 88, in <module>
+    print(f"Uploading attachment: {attachments[count]}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u202a' in position 22: character maps to <undefined>
+Bot started at: 2023-12-29 18:12:26.183768
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 88, in <module>
+    print(f"Uploading attachment: {attachments[count]}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u202a' in position 22: character maps to <undefined>
+Bot started at: 2023-12-29 18:16:19.563704
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: ‪C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 97, in <module>
+    file_input = wait.until(EC.presence_of_element_located((By.XPATH, file_input_path)))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BA6EE3+174339]
+	(No symbol) [0x00AD0A51]
+	(No symbol) [0x007E6FF6]
+	(No symbol) [0x00819876]
+	(No symbol) [0x00819C2C]
+	(No symbol) [0x0084BD42]
+	(No symbol) [0x00837054]
+	(No symbol) [0x0084A104]
+	(No symbol) [0x00836DA6]
+	(No symbol) [0x00811034]
+	(No symbol) [0x00811F8D]
+	GetHandleVerifier [0x00C44B1C+820540]
+	sqlite3_dbdata_init [0x00D053EE+653550]
+	sqlite3_dbdata_init [0x00D04E09+652041]
+	sqlite3_dbdata_init [0x00CF97CC+605388]
+	sqlite3_dbdata_init [0x00D05D9B+656027]
+	(No symbol) [0x00ADFE6C]
+	(No symbol) [0x00AD83B8]
+	(No symbol) [0x00AD84DD]
+	(No symbol) [0x00AC5818]
+	BaseThreadInitThunk [0x7571FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773A7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773A7C3E+238]
+
+Bot started at: 2023-12-29 18:20:49.366958
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: ‪C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Script interrupted by the user.
+Bot closed at: 2023-12-29 18:21:56.090246
+Bot ran for: 0:01:06.723288
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 18:21:58.733049
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: ‪C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 98, in <module>
+    file_input = wait.until(EC.presence_of_all_elements_located((By.XPATH, file_input_path)))[0]
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+Bot started at: 2023-12-29 18:27:14.158957
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 98, in <module>
+    
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+Bot started at: 2023-12-29 18:28:33.993651
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Script interrupted by the user.
+Bot closed at: 2023-12-29 18:29:11.238115
+Bot ran for: 0:00:37.244464
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2023-12-29 18:29:30.631223
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 96, in <module>
+    file_input = wait.until(EC.presence_of_element_located((By.XPATH, file_input_path)))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00BA6EE3+174339]
+	(No symbol) [0x00AD0A51]
+	(No symbol) [0x007E6FF6]
+	(No symbol) [0x00819876]
+	(No symbol) [0x00819C2C]
+	(No symbol) [0x0084BD42]
+	(No symbol) [0x00837054]
+	(No symbol) [0x0084A104]
+	(No symbol) [0x00836DA6]
+	(No symbol) [0x00811034]
+	(No symbol) [0x00811F8D]
+	GetHandleVerifier [0x00C44B1C+820540]
+	sqlite3_dbdata_init [0x00D053EE+653550]
+	sqlite3_dbdata_init [0x00D04E09+652041]
+	sqlite3_dbdata_init [0x00CF97CC+605388]
+	sqlite3_dbdata_init [0x00D05D9B+656027]
+	(No symbol) [0x00ADFE6C]
+	(No symbol) [0x00AD83B8]
+	(No symbol) [0x00AD84DD]
+	(No symbol) [0x00AC5818]
+	BaseThreadInitThunk [0x7571FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773A7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773A7C3E+238]
+
+Bot started at: 2023-12-29 18:33:10.479482
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nextjs
+Sending message 4: reactjs
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 2: Django
+Sending message 5: flask
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nodejs
+Sending message 3: liquid 
+Sending message 5: expressjs
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 124, in <module>
+    time.sleep(3)
+KeyboardInterrupt
+Bot started at: 2023-12-29 18:34:55.923315
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: python
+Sending message 3: javascript
+Sending message 5: java
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nextjs
+Sending message 4: reactjs
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 2: Django
+Sending message 5: flask
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: nodejs
+Sending message 3: liquid 
+Sending message 5: expressjs
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: docker
+Sending message 2: github
+Sending message 4: langchain
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Linux
+Sending message 3: Kali Linus
+Sending message 5: Ubunto
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 2: MongoDB
+Sending message 4: MySQl
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 3: Postgres
+Script interrupted by the user.
+Bot closed at: 2023-12-29 18:37:53.007723
+Bot ran for: 0:02:57.084408
+Number Of Users messaged by the bot: 7
+Bot Is Now Stopped
+Bot started at: 2023-12-29 18:51:01.834785
+ 
+ 
+Preparing Data For 3131029721
+Sending message 1: Hello Sheroz
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: File not found : C:\Users\TICK\Desktop\Bot\image-2.jpg
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00BA6EE3+174339]
+	(No symbol) [0x00AD0A51]
+	(No symbol) [0x007E6FF6]
+	(No symbol) [0x00815728]
+	(No symbol) [0x0083700C]
+	(No symbol) [0x008125B0]
+	(No symbol) [0x00837414]
+	(No symbol) [0x0084A104]
+	(No symbol) [0x00836DA6]
+	(No symbol) [0x00811034]
+	(No symbol) [0x00811F8D]
+	GetHandleVerifier [0x00C44B1C+820540]
+	sqlite3_dbdata_init [0x00D053EE+653550]
+	sqlite3_dbdata_init [0x00D04E09+652041]
+	sqlite3_dbdata_init [0x00CF97CC+605388]
+	sqlite3_dbdata_init [0x00D05D9B+656027]
+	(No symbol) [0x00ADFE6C]
+	(No symbol) [0x00AD83B8]
+	(No symbol) [0x00AD84DD]
+	(No symbol) [0x00AC5818]
+	BaseThreadInitThunk [0x7571FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773A7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773A7C3E+238]
+
+Bot started at: 2023-12-29 18:52:18.049215
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Sheroz
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: File not found : C:\Users\TICK\Desktop\Bot\image-2.jpg
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00BA6EE3+174339]
+	(No symbol) [0x00AD0A51]
+	(No symbol) [0x007E6FF6]
+	(No symbol) [0x00815728]
+	(No symbol) [0x0083700C]
+	(No symbol) [0x008125B0]
+	(No symbol) [0x00837414]
+	(No symbol) [0x0084A104]
+	(No symbol) [0x00836DA6]
+	(No symbol) [0x00811034]
+	(No symbol) [0x00811F8D]
+	GetHandleVerifier [0x00C44B1C+820540]
+	sqlite3_dbdata_init [0x00D053EE+653550]
+	sqlite3_dbdata_init [0x00D04E09+652041]
+	sqlite3_dbdata_init [0x00CF97CC+605388]
+	sqlite3_dbdata_init [0x00D05D9B+656027]
+	(No symbol) [0x00ADFE6C]
+	(No symbol) [0x00AD83B8]
+	(No symbol) [0x00AD84DD]
+	(No symbol) [0x00AC5818]
+	BaseThreadInitThunk [0x7571FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x773A7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x773A7C3E+238]
+
+Bot started at: 2023-12-29 18:55:29.809502
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\image-2.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: File not found : C:\Users\TICK\Desktop\Bot\image-2.jpg
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00E66EE3+174339]
+	(No symbol) [0x00D90A51]
+	(No symbol) [0x00AA6FF6]
+	(No symbol) [0x00AD5728]
+	(No symbol) [0x00AF700C]
+	(No symbol) [0x00AD25B0]
+	(No symbol) [0x00AF7414]
+	(No symbol) [0x00B0A104]
+	(No symbol) [0x00AF6DA6]
+	(No symbol) [0x00AD1034]
+	(No symbol) [0x00AD1F8D]
+	GetHandleVerifier [0x00F04B1C+820540]
+	sqlite3_dbdata_init [0x00FC53EE+653550]
+	sqlite3_dbdata_init [0x00FC4E09+652041]
+	sqlite3_dbdata_init [0x00FB97CC+605388]
+	sqlite3_dbdata_init [0x00FC5D9B+656027]
+	(No symbol) [0x00D9FE6C]
+	(No symbol) [0x00D983B8]
+	(No symbol) [0x00D984DD]
+	(No symbol) [0x00D85818]
+	BaseThreadInitThunk [0x7723FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77C67C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77C67C3E+238]
+
+Bot started at: 2023-12-29 18:58:47.325742
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 88, in <module>
+    print(f"Uploading attachment: {attachments[count]}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u202a' in position 22: character maps to <undefined>
+Bot started at: 2023-12-29 18:59:44.092164
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 88, in <module>
+    print(f"Uploading attachment: {attachments[count]}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u202a' in position 22: character maps to <undefined>
+Bot started at: 2023-12-30 18:12:00.443656
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 88, in <module>
+    print(f"Uploading attachment: {attachments[count]}")
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u202a' in position 22: character maps to <undefined>
+Bot started at: 2023-12-30 18:14:14.495803
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: ‪C:\Users\TICK\Desktop\Bot\photographer-image.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00856EE3+174339]
+	(No symbol) [0x00780A51]
+	(No symbol) [0x00496FF6]
+	(No symbol) [0x004C5728]
+	(No symbol) [0x004E700C]
+	(No symbol) [0x004C25B0]
+	(No symbol) [0x004E7414]
+	(No symbol) [0x004FA104]
+	(No symbol) [0x004E6DA6]
+	(No symbol) [0x004C1034]
+	(No symbol) [0x004C1F8D]
+	GetHandleVerifier [0x008F4B1C+820540]
+	sqlite3_dbdata_init [0x009B53EE+653550]
+	sqlite3_dbdata_init [0x009B4E09+652041]
+	sqlite3_dbdata_init [0x009A97CC+605388]
+	sqlite3_dbdata_init [0x009B5D9B+656027]
+	(No symbol) [0x0078FE6C]
+	(No symbol) [0x007883B8]
+	(No symbol) [0x007884DD]
+	(No symbol) [0x00775818]
+	BaseThreadInitThunk [0x768FFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47C3E+238]
+
+Bot started at: 2023-12-30 18:18:58.996270
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: ‪C:\Users\TICK\Desktop\Bot\photographer-image.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00856EE3+174339]
+	(No symbol) [0x00780A51]
+	(No symbol) [0x00496FF6]
+	(No symbol) [0x004C5728]
+	(No symbol) [0x004E700C]
+	(No symbol) [0x004C25B0]
+	(No symbol) [0x004E7414]
+	(No symbol) [0x004FA104]
+	(No symbol) [0x004E6DA6]
+	(No symbol) [0x004C1034]
+	(No symbol) [0x004C1F8D]
+	GetHandleVerifier [0x008F4B1C+820540]
+	sqlite3_dbdata_init [0x009B53EE+653550]
+	sqlite3_dbdata_init [0x009B4E09+652041]
+	sqlite3_dbdata_init [0x009A97CC+605388]
+	sqlite3_dbdata_init [0x009B5D9B+656027]
+	(No symbol) [0x0078FE6C]
+	(No symbol) [0x007883B8]
+	(No symbol) [0x007884DD]
+	(No symbol) [0x00775818]
+	BaseThreadInitThunk [0x768FFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47C3E+238]
+
+Bot started at: 2023-12-30 18:22:08.729423
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: ‪C:\Users\TICK\Desktop\Bot\photographer-image.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 100, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00856EE3+174339]
+	(No symbol) [0x00780A51]
+	(No symbol) [0x00496FF6]
+	(No symbol) [0x004C5728]
+	(No symbol) [0x004E700C]
+	(No symbol) [0x004C25B0]
+	(No symbol) [0x004E7414]
+	(No symbol) [0x004FA104]
+	(No symbol) [0x004E6DA6]
+	(No symbol) [0x004C1034]
+	(No symbol) [0x004C1F8D]
+	GetHandleVerifier [0x008F4B1C+820540]
+	sqlite3_dbdata_init [0x009B53EE+653550]
+	sqlite3_dbdata_init [0x009B4E09+652041]
+	sqlite3_dbdata_init [0x009A97CC+605388]
+	sqlite3_dbdata_init [0x009B5D9B+656027]
+	(No symbol) [0x0078FE6C]
+	(No symbol) [0x007883B8]
+	(No symbol) [0x007884DD]
+	(No symbol) [0x00775818]
+	BaseThreadInitThunk [0x768FFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47C3E+238]
+
+Bot started at: 2023-12-30 18:27:23.271960
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: ‪C:\Users\TICK\Desktop\Bot\photographer-image.jpg
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 101, in <module>
+    file_input.send_keys(file_path)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 231, in send_keys
+    self._execute(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 395, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 
+  (Session info: chrome=120.0.6099.130)
+Stacktrace:
+	GetHandleVerifier [0x00856EE3+174339]
+	(No symbol) [0x00780A51]
+	(No symbol) [0x00496FF6]
+	(No symbol) [0x004C5728]
+	(No symbol) [0x004E700C]
+	(No symbol) [0x004C25B0]
+	(No symbol) [0x004E7414]
+	(No symbol) [0x004FA104]
+	(No symbol) [0x004E6DA6]
+	(No symbol) [0x004C1034]
+	(No symbol) [0x004C1F8D]
+	GetHandleVerifier [0x008F4B1C+820540]
+	sqlite3_dbdata_init [0x009B53EE+653550]
+	sqlite3_dbdata_init [0x009B4E09+652041]
+	sqlite3_dbdata_init [0x009A97CC+605388]
+	sqlite3_dbdata_init [0x009B5D9B+656027]
+	(No symbol) [0x0078FE6C]
+	(No symbol) [0x007883B8]
+	(No symbol) [0x007884DD]
+	(No symbol) [0x00775818]
+	BaseThreadInitThunk [0x768FFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77A47C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77A47C3E+238]
+
+Bot started at: 2023-12-30 18:32:02.331065
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Omer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+Bot closed at: 2023-12-30 18:33:01.443164
+Bot ran for: 0:00:59.112099
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-01 11:57:59.902583
+ 
+ 
+Preparing Data For 3221251014
+Sending message 1: Hello Sameer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Attachment with caption sent to 3221251014
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+Bot closed at: 2024-01-01 11:59:10.551255
+Bot ran for: 0:01:10.648672
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-05 17:49:11.908559
+ 
+ 
+Preparing Data For 3221251014
+Script interrupted by the user.
+Bot closed at: 2024-01-05 17:49:46.782952
+Bot ran for: 0:00:34.874393
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2024-01-05 17:57:48.947807
+ 
+ 
+Preparing Data For 3221251014
+ 
+ 
+Preparing Data For 3302085537
+Bot closed at: 2024-01-05 17:58:05.253904
+Bot ran for: 0:00:16.306097
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-05 17:58:13.922744
+ 
+ 
+Preparing Data For 3221251014
+ 
+ 
+Preparing Data For 3302085537
+Bot closed at: 2024-01-05 17:58:28.024258
+Bot ran for: 0:00:14.101514
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-05 18:01:41.387541
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 43, in <module>
+    wait = WebDriverWait(driver, 40)
+           ^^^^^^^^^^^^^
+NameError: name 'WebDriverWait' is not defined
+Bot started at: 2024-01-05 18:02:55.580135
+ 
+ 
+Preparing Data For 3221251014
+ 
+ 
+Preparing Data For 3302085537
+Bot closed at: 2024-01-05 18:03:07.630161
+Bot ran for: 0:00:12.050026
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-05 18:15:07.473615
+ 
+ 
+Preparing Data For 3221251014
+Sending message 1: Hello Sameer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Script interrupted by the user.
+Bot closed at: 2024-01-05 18:15:45.666878
+Bot ran for: 0:00:38.193263
+Number Of Users messaged by the bot: 0
+Bot Is Now Stopped
+Bot started at: 2024-01-05 18:23:07.138377
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 52, in <module>
+    excel_read = pd.read_excel(file_path, sheet_name="Sheet1")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 517, in read_excel
+    data = io.parse(
+           ^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1629, in parse
+    return self._reader.parse(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 788, in parse
+    sheet = self.get_sheet_by_name(asheetname)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 583, in get_sheet_by_name
+    self.raise_if_bad_sheet_by_name(name)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 639, in raise_if_bad_sheet_by_name
+    raise ValueError(f"Worksheet named '{name}' not found")
+ValueError: Worksheet named 'Sheet1' not found
+Bot started at: 2024-01-05 18:28:02.449834
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 52, in <module>
+    excel_read = pd.read_excel(file_path, sheet_name="Sheet1")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 517, in read_excel
+    data = io.parse(
+           ^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1629, in parse
+    return self._reader.parse(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 788, in parse
+    sheet = self.get_sheet_by_name(asheetname)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 583, in get_sheet_by_name
+    self.raise_if_bad_sheet_by_name(name)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 639, in raise_if_bad_sheet_by_name
+    raise ValueError(f"Worksheet named '{name}' not found")
+ValueError: Worksheet named 'Sheet1' not found
+Bot started at: 2024-01-05 18:30:47.202233
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 44, in <module>
+    excel_read = pd.read_excel(xlsx_file_path, sheet_name="Sheet1")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 517, in read_excel
+    data = io.parse(
+           ^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1629, in parse
+    return self._reader.parse(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 788, in parse
+    sheet = self.get_sheet_by_name(asheetname)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 583, in get_sheet_by_name
+    self.raise_if_bad_sheet_by_name(name)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 639, in raise_if_bad_sheet_by_name
+    raise ValueError(f"Worksheet named '{name}' not found")
+ValueError: Worksheet named 'Sheet1' not found
+Bot started at: 2024-01-05 18:36:56.209253
+Error: Worksheet named 'Sheet1' not found
+Bot closed at: 2024-01-05 18:37:05.377365
+Bot ran for: 0:00:09.168112
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 124, in <module>
+    print(f"Number Of Users messaged by the bot: {count}")
+                                                  ^^^^^
+NameError: name 'count' is not defined. Did you mean: 'round'?
+Bot started at: 2024-01-05 18:38:54.208636
+Bot closed at: 2024-01-05 18:39:02.280521
+Bot ran for: 0:00:08.071885
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 48, in <module>
+    excel_read = pd.read_excel(file_path, sheet_name="Sheet1")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 517, in read_excel
+    data = io.parse(
+           ^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1629, in parse
+    return self._reader.parse(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 788, in parse
+    sheet = self.get_sheet_by_name(asheetname)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 583, in get_sheet_by_name
+    self.raise_if_bad_sheet_by_name(name)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 639, in raise_if_bad_sheet_by_name
+    raise ValueError(f"Worksheet named '{name}' not found")
+ValueError: Worksheet named 'Sheet1' not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 112, in <module>
+    print(f"Number Of Users messaged by the bot: {count}")
+                                                  ^^^^^
+NameError: name 'count' is not defined. Did you mean: 'round'?
+Bot started at: 2024-01-05 18:39:26.460341
+Bot closed at: 2024-01-05 18:39:34.493530
+Bot ran for: 0:00:08.033189
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 48, in <module>
+    excel_read = pd.read_excel(file_path, sheet_name="Sheet1")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 517, in read_excel
+    data = io.parse(
+           ^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 1629, in parse
+    return self._reader.parse(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 788, in parse
+    sheet = self.get_sheet_by_name(asheetname)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 583, in get_sheet_by_name
+    self.raise_if_bad_sheet_by_name(name)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\excel\_base.py", line 639, in raise_if_bad_sheet_by_name
+    raise ValueError(f"Worksheet named '{name}' not found")
+ValueError: Worksheet named 'Sheet1' not found
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 112, in <module>
+    print(f"Number Of Users messaged by the bot: {count}")
+                                                  ^^^^^
+NameError: name 'count' is not defined. Did you mean: 'round'?
+Bot started at: 2024-01-05 18:44:36.873397
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Sameer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+Bot closed at: 2024-01-05 18:45:53.107479
+Bot ran for: 0:01:16.234082
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-05 18:53:26.218781
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Sameer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+Bot closed at: 2024-01-05 18:54:37.779865
+Bot ran for: 0:01:11.561084
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-05 18:56:47.334176
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 60, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-05 19:00:08.484861
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'PhoneNumber'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 60, in <module>
+    numbers = excel_read["PhoneNumber"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'PhoneNumber'
+Bot started at: 2024-01-06 16:26:33.644718
+ 
+ 
+Preparing Data For 3302085537
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 77, in <module>
+    message_box = wait.until(EC.presence_of_element_located((By.XPATH, message_box_path)))
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\wait.py", line 96, in until
+    value = method(self._driver)
+            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 84, in _predicate
+    return driver.find_element(*locator)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 742, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x01336EE3+174339]
+	(No symbol) [0x01260A51]
+	(No symbol) [0x00F76FF6]
+	(No symbol) [0x00F5EFE7]
+	(No symbol) [0x00FCB53B]
+	(No symbol) [0x00FD9E7B]
+	(No symbol) [0x00FC6DA6]
+	(No symbol) [0x00FA1034]
+	(No symbol) [0x00FA1F8D]
+	GetHandleVerifier [0x013D4B1C+820540]
+	sqlite3_dbdata_init [0x014953EE+653550]
+	sqlite3_dbdata_init [0x01494E09+652041]
+	sqlite3_dbdata_init [0x014897CC+605388]
+	sqlite3_dbdata_init [0x01495D9B+656027]
+	(No symbol) [0x0126FE6C]
+	(No symbol) [0x012683B8]
+	(No symbol) [0x012684DD]
+	(No symbol) [0x01255818]
+	BaseThreadInitThunk [0x7678FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x779E7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x779E7C3E+238]
+
