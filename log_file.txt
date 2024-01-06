@@ -2825,3 +2825,1816 @@ Stacktrace:
 	RtlGetAppContainerNamedObjectPath [0x779E7C6E+286]
 	RtlGetAppContainerNamedObjectPath [0x779E7C3E+238]
 
+Bot started at: 2024-01-06 17:11:00.681601
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Sameer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hi Again 
+Sending message 3: Again I am here
+Sending message 4: reactjs
+Sending message 5: Check this pdf
+Uploading attachment: C:\Users\TICK\Desktop\Bot\bot icon.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+Bot closed at: 2024-01-06 17:12:05.779319
+Bot ran for: 0:01:05.097718
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-06 17:13:54.139530
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Sameer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-06 17:14:34.181133
+Bot ran for: 0:00:40.041603
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
+Bot started at: 2024-01-06 17:18:12.208935
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:19:18.103933
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:19:59.729275
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:20:35.760741
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:22:27.922717
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:23:33.513120
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:23:43.795541
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:23:55.074187
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Hello Sameer
+Sending message 3: I am bot
+Sending message 5: did you like my phography?
+Uploading attachment: C:\Users\TICK\Desktop\Bot\clouds.jpg
+Attachment with caption sent to 3302085537
+ 
+ 
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 140, in <module>
+    time.sleep(3)
+KeyboardInterrupt
+Bot started at: 2024-01-06 17:26:16.314893
+Traceback (most recent call last):
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3791, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 152, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 181, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7080, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 7088, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Number'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 70, in <module>
+    numbers = excel_read["Number"].tolist()
+              ~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 3893, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 3798, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Number'
+Bot started at: 2024-01-06 17:29:41.523190
+ 
+ 
+Preparing Data For 3302085537
+An error occurred: 'charmap' codec can't encode characters in position 19-22: character maps to <undefined>
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: This Is Your Invoice
+Sending message 2: This Is Your Invoice
+Sending message 3: This Is Your Invoice
+Sending message 4: This Is Your Invoice
+Sending message 5: This Is Your Invoice
+Sending message 6: This Is Your Invoice
+Sending message 7: This Is Your Invoice
+Sending message 8: This Is Your Invoice
+Sending message 9: This Is Your Invoice
+Sending message 10: This Is Your Invoice
+Sending message 11: This Is Your Invoice
+Sending message 12: This Is Your Invoice
+Sending message 13: This Is Your Invoice
+Sending message 14: This Is Your Invoice
+Sending message 15: This Is Your Invoice
+Sending message 16: This Is Your Invoice
+Sending message 17: This Is Your Invoice
+Sending message 18: This Is Your Invoice
+Sending message 19: This Is Your Invoice
+Sending message 20: This Is Your Invoice
+Sending message 21: This Is Your Invoice
+Sending message 22: This Is Your Invoice
+Sending message 23: This Is Your Invoice
+Sending message 24: This Is Your Invoice
+Sending message 25: This Is Your Invoice
+Sending message 26: This Is Your Invoice
+Sending message 27: This Is Your Invoice
+Sending message 28: This Is Your Invoice
+Sending message 29: This Is Your Invoice
+Script interrupted by the user.
+Bot closed at: 2024-01-06 17:30:58.935527
+Bot started at: 2024-01-06 17:35:56.334947
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'Bot ran for: 0:01:17.412337
+Number Of Users messaged by the bot
+Bot started at: 2024-01-06 17:34:49.746039
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+Bot closed at: 2024-01-06 17:34:53.524320
+Bot ran for: 0:00:03.778281
+Number Of Users messaged by the bot: 50
+Bot Is Now Stopped
+
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+An error occurred: 'Number'
+Bot closed at: 2024-01-06 17:35:58.701419
+Bot ran for: 0:00:02.366472
+Number Of Users messaged by the bot: 50
+Bot Is Now Stopped
+Bot started at: 2024-01-06 17:37:58.479122
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: 'charmap' codec can't encode characters in position 19-22: character maps to <undefined>
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Amna Enterprises
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135915.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Mr Naseem
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135916.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Haris
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135918.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Mushtaq Ahmad
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135917.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Imran Emran
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135919.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Anees Ur Rehman
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135920.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-06 17:40:56.400626
+Bot ran for: 0:02:57.921504
+Number Of Users messaged by the bot: 7
+Bot Is Now Stopped
+Bot started at: 2024-01-06 17:42:27.065051
+C:\Users\TICK\Desktop\Bot\new.py:71: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  number = row[0]
+C:\Users\TICK\Desktop\Bot\new.py:72: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  message_1 = row[1]
+C:\Users\TICK\Desktop\Bot\new.py:73: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  message_2 = row[2]
+C:\Users\TICK\Desktop\Bot\new.py:74: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`
+  attachment = row[3]
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: 'charmap' codec can't encode characters in position 19-22: character maps to <undefined>
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Amna Enterprises
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135915.pdf
+An error occurred in row 2: expected str, bytes or os.PathLike object, not WebElement
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 3: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 4: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 5: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 6: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 7: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 8: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 9: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 10: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 11: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 12: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 13: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 14: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 15: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 16: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 17: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 18: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 19: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 20: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 21: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 22: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 23: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 24: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 25: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 26: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 27: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 28: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 29: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 30: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 31: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 32: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 33: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 34: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 35: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 36: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 37: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 38: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 39: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 40: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 41: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 42: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 43: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 44: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 45: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 46: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 47: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 48: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 49: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 50: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00E96EE3+174339]
+	(No symbol) [0x00DC0A51]
+	(No symbol) [0x00AD6FF6]
+	(No symbol) [0x00B3A5CA]
+	(No symbol) [0x00B26DA6]
+	(No symbol) [0x00B01034]
+	(No symbol) [0x00B01F8D]
+	GetHandleVerifier [0x00F34B1C+820540]
+	sqlite3_dbdata_init [0x00FF53EE+653550]
+	sqlite3_dbdata_init [0x00FF4E09+652041]
+	sqlite3_dbdata_init [0x00FE97CC+605388]
+	sqlite3_dbdata_init [0x00FF5D9B+656027]
+	(No symbol) [0x00DCFE6C]
+	(No symbol) [0x00DC83B8]
+	(No symbol) [0x00DC84DD]
+	(No symbol) [0x00DB5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot closed at: 2024-01-06 17:43:06.452413
+Bot ran for: 0:00:39.387362
+Number Of Users messaged by the bot: 50
+Bot Is Now Stopped
+Bot started at: 2024-01-06 17:43:27.860072
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: 'charmap' codec can't encode characters in position 19-22: character maps to <undefined>
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Amna Enterprises
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135915.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Mr Naseem
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135916.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-06 17:44:25.158333
+Bot ran for: 0:00:57.298261
+Number Of Users messaged by the bot: 3
+Bot Is Now Stopped
