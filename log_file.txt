@@ -4638,3 +4638,2233 @@ Bot closed at: 2024-01-06 17:44:25.158333
 Bot ran for: 0:00:57.298261
 Number Of Users messaged by the bot: 3
 Bot Is Now Stopped
+Bot started at: 2024-01-06 17:49:11.821191
+ 
+ 
+An error occurred in row 1: 'Number'
+ 
+ 
+An error occurred in row 2: 'Number'
+ 
+ 
+An error occurred in row 3: 'Number'
+ 
+ 
+An error occurred in row 4: 'Number'
+ 
+ 
+An error occurred in row 5: 'Number'
+ 
+ 
+An error occurred in row 6: 'Number'
+ 
+ 
+An error occurred in row 7: 'Number'
+ 
+ 
+An error occurred in row 8: 'Number'
+ 
+ 
+An error occurred in row 9: 'Number'
+ 
+ 
+An error occurred in row 10: 'Number'
+ 
+ 
+An error occurred in row 11: 'Number'
+ 
+ 
+An error occurred in row 12: 'Number'
+ 
+ 
+An error occurred in row 13: 'Number'
+ 
+ 
+An error occurred in row 14: 'Number'
+ 
+ 
+An error occurred in row 15: 'Number'
+ 
+ 
+An error occurred in row 16: 'Number'
+ 
+ 
+An error occurred in row 17: 'Number'
+ 
+ 
+An error occurred in row 18: 'Number'
+ 
+ 
+An error occurred in row 19: 'Number'
+ 
+ 
+An error occurred in row 20: 'Number'
+ 
+ 
+An error occurred in row 21: 'Number'
+ 
+ 
+An error occurred in row 22: 'Number'
+ 
+ 
+An error occurred in row 23: 'Number'
+ 
+ 
+An error occurred in row 24: 'Number'
+ 
+ 
+An error occurred in row 25: 'Number'
+ 
+ 
+An error occurred in row 26: 'Number'
+ 
+ 
+An error occurred in row 27: 'Number'
+ 
+ 
+An error occurred in row 28: 'Number'
+ 
+ 
+An error occurred in row 29: 'Number'
+ 
+ 
+An error occurred in row 30: 'Number'
+ 
+ 
+An error occurred in row 31: 'Number'
+ 
+ 
+An error occurred in row 32: 'Number'
+ 
+ 
+An error occurred in row 33: 'Number'
+ 
+ 
+An error occurred in row 34: 'Number'
+ 
+ 
+An error occurred in row 35: 'Number'
+ 
+ 
+An error occurred in row 36: 'Number'
+ 
+ 
+An error occurred in row 37: 'Number'
+ 
+ 
+An error occurred in row 38: 'Number'
+ 
+ 
+An error occurred in row 39: 'Number'
+ 
+ 
+An error occurred in row 40: 'Number'
+ 
+ 
+An error occurred in row 41: 'Number'
+ 
+ 
+An error occurred in row 42: 'Number'
+ 
+ 
+An error occurred in row 43: 'Number'
+ 
+ 
+An error occurred in row 44: 'Number'
+ 
+ 
+An error occurred in row 45: 'Number'
+ 
+ 
+An error occurred in row 46: 'Number'
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 128, in <module>
+    print(f"Attachment with caption sent to {number}")
+^^^^^^^^^
+KeyboardInterrupt
+Bot started at: 2024-01-06 17:51:38.108115
+ 
+ 
+Preparing Data For 3302085537
+An error occurred: 'charmap' codec can't encode characters in position 19-22: character maps to <undefined>
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Amna Enterprises
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135915.pdf
+Script interrupted by the user.
+Bot closed at: 2024-01-06 17:52:08.550101
+Bot ran for: 0:00:30.441986
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
+Bot started at: 2024-01-06 17:52:34.926833
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Omer Shafiq
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135914.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Amna Enterprises
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135915.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-06 17:53:34.734650
+Bot ran for: 0:00:59.807817
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-06 17:57:07.446912
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Omer Shafiq
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135914.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Amna Enterprises
+Sending message 2: This Is Your Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\135915.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-06 17:58:08.327292
+Bot ran for: 0:01:00.880380
+Number Of Users messaged by the bot: 2
+Bot Is Now Stopped
+Bot started at: 2024-01-06 19:24:27.397261
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-06 19:24:58.013675
+Bot ran for: 0:00:30.616414
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
+Bot started at: 2024-01-08 11:11:23.815261
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 63, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:12:01.957100
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\new.py", line 63, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:22:22.321772
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 63, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:23:36.085702
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 63, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:24:47.969734
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 63, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:25:16.172644
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 63, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:27:02.915195
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 66, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:/Program Files/Google/Chrome/Application/chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:28:35.921711
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 66, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:/Program Files/Google/Chrome/Application/chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:33:20.772347
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 66, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:/Program Files/Google/Chrome/Application/chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:37:30.015640
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 66, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:/Program Files/Google/Chrome/Application/chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:39:21.639736
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 66, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:/Program Files/Google/Chrome/Application/chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:47:03.394278
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 69, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:48:05.182590
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 69, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 11:49:01.474847
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 69, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 234, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 124, in main
+    driver = setup_driver()
+             ^^^^^^^^^^^^^^
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 39, in setup_driver
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 234, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 124, in main
+    driver = setup_driver()
+             ^^^^^^^^^^^^^^
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 39, in setup_driver
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 12:08:32.694663
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 179, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 72, in main
+    driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+Bot started at: 2024-01-08 12:10:38.930134
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 179, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 72, in main
+    driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+Bot started at: 2024-01-08 12:11:10.396225
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 179, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 72, in main
+    driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+Bot started at: 2024-01-08 12:11:17.817998
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 179, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 72, in main
+    driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+
+
+
+Bot started at: 2024-01-08 12:12:01.772187
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 183, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 76, in main
+    driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+
+
+
+Bot started at: 2024-01-08 12:14:16.841771
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 183, in <module>
+    main()
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 76, in main
+    driver = webdriver.Chrome(options=options, executable_path=chrome_driver_path)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+Bot started at: 2024-01-08 12:14:58.125267
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 63, in <module>
+    driver = webdriver.Chrome(options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\chromium\webdriver.py", line 61, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 209, in __init__
+    self.start_session(capabilities)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 293, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 348, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\TICK\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006EA756]
+	(No symbol) [0x006E7A0F]
+	(No symbol) [0x0071E259]
+	(No symbol) [0x0071DBBA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot started at: 2024-01-08 12:18:07.155772
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 63, in <module>
+    driver = webdriver.Chrome(executable_path=chromedriver_path, options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+Bot started at: 2024-01-08 12:19:49.648658
+Traceback (most recent call last):
+  File "C:\Users\TICK\Desktop\Bot\bot.py", line 63, in <module>
+    driver = webdriver.Chrome(executable_path=chromedriver_path, options=options)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: WebDriver.__init__() got an unexpected keyword argument 'executable_path'
+Bot started at: 2024-01-08 12:21:43.134548
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot closed at: 2024-01-08 12:21:54.606696
+Bot ran for: 0:00:11.472148
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
+Bot started at: 2024-01-08 12:21:59.953233
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+An error occurred in row 1: Message: stale element reference: stale element not found
+  (Session info: chrome=120.0.6099.199); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006CAEAC]
+	(No symbol) [0x006CC585]
+	(No symbol) [0x006CC622]
+	(No symbol) [0x006F4E70]
+	(No symbol) [0x0071700C]
+	(No symbol) [0x006F25B0]
+	(No symbol) [0x00717414]
+	(No symbol) [0x0072A104]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006F9876]
+	(No symbol) [0x006F9C2C]
+	(No symbol) [0x0072BD42]
+	(No symbol) [0x00717054]
+	(No symbol) [0x0072A104]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Wajahat Hussain
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136089.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Shiraz Din
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136090.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 5: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot closed at: 2024-01-08 12:24:28.598701
+Bot ran for: 0:02:28.645468
+Number Of Users messaged by the bot: 5
+Bot Is Now Stopped
+Bot started at: 2024-01-08 12:24:37.350906
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 2: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 3: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 4: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 5: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 6: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 7: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 8: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 9: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 10: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 11: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 12: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 13: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 14: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 15: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 16: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 17: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 18: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 19: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 20: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 21: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 22: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 23: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 24: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006AEFE7]
+	(No symbol) [0x0071B53B]
+	(No symbol) [0x00729E7B]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Bot started at: 2024-01-08 12:26:58.433175
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Zeeshan Younas
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136088.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Wajahat Hussain
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136089.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-08 12:28:21.199040
+Bot ran for: 0:01:22.765865
+Number Of Users messaged by the bot: 3
+Bot Is Now Stopped
+Bot started at: 2024-01-08 12:29:52.111582
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Shariq Ali Qureshi
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136088.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Zeeshan Younas
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136089.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Wajahat Hussain
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136090.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Shiraz Din
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136091.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 6: Alert Text: {Alert text : 
+Message: unexpected alert open: {Alert text : }
+  (Session info: chrome=120.0.6099.199)
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x0072A5CA]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Mr Salman
+Script interrupted by the user.
+Bot closed at: 2024-01-08 12:32:21.364866
+Bot ran for: 0:02:29.253284
+Number Of Users messaged by the bot: 6
+Bot Is Now Stopped
+Bot started at: 2024-01-08 12:32:27.558679
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006F9876]
+	(No symbol) [0x006F9C2C]
+	(No symbol) [0x0072BD42]
+	(No symbol) [0x00717054]
+	(No symbol) [0x0072A104]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+Bot closed at: 2024-01-08 12:33:12.661498
+Bot ran for: 0:00:45.102819
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
+Bot started at: 2024-01-08 12:33:25.111051
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006F9876]
+	(No symbol) [0x006F9C2C]
+	(No symbol) [0x0072BD42]
+	(No symbol) [0x00717054]
+	(No symbol) [0x0072A104]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 2: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006F9876]
+	(No symbol) [0x006F9C2C]
+	(No symbol) [0x0072BD42]
+	(No symbol) [0x00717054]
+	(No symbol) [0x0072A104]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Wajahat Hussain
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136089.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Shiraz Din
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136090.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Script interrupted by the user.
+Bot closed at: 2024-01-08 12:36:20.442564
+Bot ran for: 0:02:55.331513
+Number Of Users messaged by the bot: 4
+Bot Is Now Stopped
+Bot started at: 2024-01-08 12:36:26.830860
+ 
+ 
+Preparing Data For 3302085537
+An error occurred in row 1: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00A86EE3+174339]
+	(No symbol) [0x009B0A51]
+	(No symbol) [0x006C6FF6]
+	(No symbol) [0x006F9876]
+	(No symbol) [0x006F9C2C]
+	(No symbol) [0x0072BD42]
+	(No symbol) [0x00717054]
+	(No symbol) [0x0072A104]
+	(No symbol) [0x00716DA6]
+	(No symbol) [0x006F1034]
+	(No symbol) [0x006F1F8D]
+	GetHandleVerifier [0x00B24B1C+820540]
+	sqlite3_dbdata_init [0x00BE53EE+653550]
+	sqlite3_dbdata_init [0x00BE4E09+652041]
+	sqlite3_dbdata_init [0x00BD97CC+605388]
+	sqlite3_dbdata_init [0x00BE5D9B+656027]
+	(No symbol) [0x009BFE6C]
+	(No symbol) [0x009B83B8]
+	(No symbol) [0x009B84DD]
+	(No symbol) [0x009A5818]
+	BaseThreadInitThunk [0x75CFFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77AF7C3E+238]
+
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Zeeshan Younas
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136088.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Wajahat Hussain
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136089.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+Bot closed at: 2024-01-08 12:38:23.377367
+Bot ran for: 0:01:56.546507
+Number Of Users messaged by the bot: 3
+Bot Is Now Stopped
+Bot started at: 2024-01-08 12:40:15.186046
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Kamran Ali
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136087.pdf
+Attachment with caption sent to 3302085537
+ 
+ 
+ 
+ 
+Preparing Data For 3302085537
+Sending message 1: Assalam-u-Alaikum, Zeeshan Younas
+Sending message 2: Here Is Your Order Invoice
+Uploading attachment: C:/Users/TICK/Desktop/PDF/testing-folder\136088.pdf
+Script interrupted by the user.
+Bot closed at: 2024-01-08 12:41:04.897256
+Bot ran for: 0:00:49.711210
+Number Of Users messaged by the bot: 1
+Bot Is Now Stopped
