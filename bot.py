@@ -134,13 +134,17 @@ if file_path:
                     print(" ")
                     print(" ")
 
-            # This code snippet will be executed when the user stops the bot manually
             except KeyboardInterrupt:
                 print("Script interrupted by the user.")
                 break
 
             except Exception as e:
                 print(f"An error occurred in row {index + 1}: {e}")
+
+            # Handle window closed error by refreshing the page
+            except EC.NoSuchWindowException:
+                print("Window closed. Refreshing the page.")
+                driver.refresh()
 
             # Increment for Excel rows and move the bot to a new line
             count += 1
@@ -150,6 +154,7 @@ if file_path:
             state_file_path = "state.txt"
             with open(state_file_path, "w") as state_file:
                 state_file.write(str(count))
+
 
     finally:
         # Print the bot stopping time
