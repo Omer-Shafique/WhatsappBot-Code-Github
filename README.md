@@ -38,3 +38,4 @@ This Python script automates sending messages and attachments on WhatsApp using 
 
 **Disclaimer: This script is provided as-is, and the user is responsible for its usage and any consequences.**
 # whatsappBot-Distributive
+# whatsappBot-Distributive
